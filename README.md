@@ -1,5 +1,6 @@
-👋 Hi, I'm Nitin Soni!
-🚀 Full-Stack Developer | MERN Stack Enthusiast
+### 👋 Hi, I'm Nitin Soni!
+
+- 🚀 Full-Stack Developer | MERN Stack Enthusiast
 
 - 👀 Passionate about building scalable and efficient web applications
 - 🌱 Currently deep-diving into the MERN stack and modern web technologies
